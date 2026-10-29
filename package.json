@@ -1,0 +1,15 @@
+{
+  "name": "pi-assorted-skills",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Trimmed collection of process skills for the pi coding agent, derived from obra/superpowers",
+  "keywords": [
+    "pi-package",
+    "skills"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ]
+  }
+}
