@@ -2,3 +2,5 @@
 node_modules/
 .superpowers/
 .pi/sdd/
+.pi/git/
+.pi/settings.json
