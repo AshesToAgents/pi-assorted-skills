@@ -176,10 +176,10 @@ how big the work is in plain words. They can override it.
 
 | Size | The design doc |
 |------|----------------|
-| A small change | a short one: what you already covered together, written down |
+| A small change | none — play back what you covered and get their go-ahead |
 | A project | the full written design (below) |
 
-Short or full, the design doc has an **Approaches** part: the two or
+A project's design doc has an **Approaches** part: the two or
 three ways you considered building it, what each trades off, which one
 they picked, and why. They pick in the conversation, before you write
 the doc.
@@ -230,4 +230,4 @@ subagents, the next step is the plan: invoke writing-plans.
 | "I've answered their questions, so I'll write the doc" | Lay out the approaches first, in a message of their own. |
 | "I should explain the process first" | Ask your question. The process shows itself. |
 | "They said 'sounds good' to the idea" | Approval covers what you showed them. A design doc you haven't written isn't approved. |
-| "The spike works, I'll keep building on it" | Keeping it is a new request. Back through the gate. |
+| "The spike works, I'll keep building on it" | Keeping it is a new request. Back through the questions. |
